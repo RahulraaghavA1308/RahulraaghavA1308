@@ -1,7 +1,4 @@
 - 👋 Hi, I’m Rahul raaghav A
-- 👀 I’m interested in Machine learnig, AI and Embedded systems
-- 🌱 I’m currently learning Deep learning
-- 💞️ I’m looking to collaborate on any projects in Machine learning or Computer vision or Deep learning or Embedded Systems
 - 📫 Contact me : rahulgksvv@gmail.com
 
 
