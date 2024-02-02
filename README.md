@@ -1,4 +1,8 @@
 - 👋 Hi, I’m Rahul raaghav A
+- I am Final year engineering student with strong foundation in mathematics, electronics, and computer science.
+- I am involved in the field of embedded software, with expertise in C/C++ and Python.
+- I have worked with low level code(assemmbly), communication protocols, microcontrollers, linux, deep learning libraries, etc.
+- I am also interested in the field of Robotics, and I am also involved with the robotics club of my college.
 - 📫 Contact me : rahulgksvv@gmail.com
 
 
